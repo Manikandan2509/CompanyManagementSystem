@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/mani-16150/Documents/Apache/parent/apache-tomcat-9.0.62/webapps/Company Management System/WebContent/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/mani-16150/Downloads/postgresql-42.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/mani-16150/Downloads/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="/Users/mani-16150/Downloads/argon2-jvm-2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/mani-16150/Downloads/jna-5.12.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
